@@ -1,0 +1,13 @@
+# below are the settings for vim bindings
+set editing-mode vi
+set show-mode-in-prompt on
+set keymap vi-insert
+"\e.":yank-last-arg
+set keymap vi-command
+"\e.":yank-last-arg
+set vi-ins-mode-string "\1\e[5 q\2"
+set vi-cmd-mode-string "\1\e[1 q\2"
+set keyseq-timeout 0
+set completion-ignore-case on
+set show-all-if-ambiguous on
+set show-all-if-unmodified on

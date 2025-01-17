@@ -1,0 +1,7 @@
+[
+    {
+        "alang": [ "ja", "jp", "jpn", "jap", "japanese", "eng", "en", "enUS", "english" ],
+        "slang": ["ja", "jp", "jpn", "jap", "japanese", "eng", "en", "enUS", "english"],
+        "blacklist": [ "sign", "song" ]
+    }
+]
